@@ -20,5 +20,6 @@
   "homepage": "https://github.com/ohGeezAlly/git-test#readme",
   "devDependencies": {
     "lite-server": "^2.3.0"
-  }
+  },
+  "dependencies": {}
 }
